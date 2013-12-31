@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+
+.obj
+bin
+
+.cproject
+.project

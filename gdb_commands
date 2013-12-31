@@ -1,0 +1,3 @@
+tar ext :4242
+load bin/usb_cdcacm
+symbol-file bin/usb_cdcacm
